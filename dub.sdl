@@ -1,0 +1,6 @@
+name "dtour-bot"
+description "dtour-bot for automated Travis restarts"
+copyright "Copyright © 2016, DLang Tour team"
+authors "DLang Tour team"
+dependency "vibe-d" version="~>0.7.29"
+versions "VibeDefaultMain"
